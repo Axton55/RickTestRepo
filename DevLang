@@ -1,0 +1,15 @@
+C/C++
+#include
+int main(){
+  printf("HelloWorld");
+}
+
+Java
+int main(){
+  System.out.println("Hello");
+}
+
+Kotlin
+fun main(){
+  print("Hello")
+}
